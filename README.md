@@ -2,6 +2,8 @@
 Sorting user repositories by popularity
 
 
+
+
 ########### Getting Started
 To open this project, you'll first need to install Expo-CLI.
   npm install -g expo-cli
@@ -11,6 +13,10 @@ after cloning the project, open destination folder and run to following command
   
 start the project: (and switch between tunnel/lan/local in Metro Bundler)
   expo start
+
+
+
+
 
 
 ############ Note
